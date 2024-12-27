@@ -1,6 +1,6 @@
-/.idea
-/.fleet
-/.vscode
+/.idea/
+/.fleet/
+/.vscode/
 composer.lock
 /vendor/
 coverage.xml
